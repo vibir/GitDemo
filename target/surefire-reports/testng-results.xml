@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2020-12-18T01:56:36 IST" finished-at="2020-12-18T01:56:36 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2020-12-18T01:56:36 IST" finished-at="2020-12-18T01:56:36 IST">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4b4523f8]" name="NativeAppAndroid" duration-ms="0" started-at="2020-12-18T01:56:36 IST" finished-at="2020-12-18T01:56:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="iosApp()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4b4523f8]" name="iosApp" duration-ms="0" started-at="2020-12-18T01:56:36 IST" finished-at="2020-12-18T01:56:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.RestApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.Mavenjava.RestApiTest@5a8e6209]" name="deleteTwitter" duration-ms="0" started-at="2020-12-18T01:56:36 IST" finished-at="2020-12-18T01:56:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.Mavenjava.RestApiTest@5a8e6209]" name="postJira" duration-ms="0" started-at="2020-12-18T01:56:36 IST" finished-at="2020-12-18T01:56:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.Mavenjava.RestApiTest -->
+      <class name="qaclickacademy.Mavenjava.App">
+        <test-method status="PASS" signature="testthis()[pri:0, instance:qaclickacademy.Mavenjava.App@3b0143d3]" name="testthis" duration-ms="5" started-at="2020-12-18T01:56:36 IST" finished-at="2020-12-18T01:56:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testthis -->
+      </class> <!-- qaclickacademy.Mavenjava.App -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
