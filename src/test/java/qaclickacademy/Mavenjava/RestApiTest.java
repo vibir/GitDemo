@@ -15,6 +15,9 @@ public class RestApiTest {
 	@Test
 	public void deleteTwitter() {
 		System.out.println("Rest API - delete Twitter");
+		System.out.println("Rest API - delete Twitter");
+		System.out.println("Rest API - delete Twitter");
+		System.out.println("Rest API - delete Twitter");
 	}
 
 }
